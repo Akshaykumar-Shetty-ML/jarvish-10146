@@ -19,4 +19,4 @@ orig_name: mysql
 sources:
 - https://github.com/kubernetes/charts
 - https://github.com/docker-library/mysql
-version: 1.2.0
+version: 0.0.1
